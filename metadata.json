@@ -1,0 +1,7 @@
+{
+  "name": "ChoiceMaster (抉择大师)",
+  "description": "A decision-making tool for those with choice paralysis, featuring AI-weighted logic and a decision cost tracker.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
